@@ -1,0 +1,36 @@
+---
+title: Code-Along
+subtitle: Skills Sharing
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: codeAlong.jpg
+thumbnail: codeAlong.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "Code-alongs are a great way to get an introduction to a new tool or package of code, by having one person demonstrate them while everyone else follows along. Follow these pro-tips for a fun and useful code-along event:
+<ul class=text-block>
+<li>
+<span class='paraHeading'>Keep it short.</span> 30 minutes to an hour is plenty. Afterwards, try following up with an open co-working session.
+</li>
+<li>
+<span class='paraHeading'>No slides.</span> Slides are boring. The presenter should live-code all their examples, while everyone else follows along on their own machines.
+</li>
+<li>
+<span class='paraHeading'>Go slow</span> enough that everyone can follow. Remember, there's no final exam; if people walk away with a successful first couple of steps on the topic, that's all they need to get started and learn more in future.
+</li>
+<li>
+<span class='paraHeading'>Give people challenge problems.</span> If you're the presenter, don't talk the whole time - take a couple of breaks to let your students try their new skills on a challenge problem or two. This gives you the chance to answer questions, and make sure no one gets lost.
+</li>
+<li>
+<span class='paraHeading'>Keep it real.</span> Try and illustrate how you actually use the tool in your research; this way, everyone will understand not only how to use it, but why it's valuable in real practice.
+</li>
+<li>
+<span class='paraHeading'>Start Smooth.</span> A few days before the code-along, make sure to communicate any dependencies that need to be installed (and how to do that), and any pre-requisite knowledge people will need (but it's often best to stick to introductory lessons, so anyone can join in).
+</li>
+</ul>"
+
+
+---

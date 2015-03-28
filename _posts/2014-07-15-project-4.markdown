@@ -1,0 +1,27 @@
+---
+title: Hacky Hour
+subtitle: Coding Pub Night
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: hackyHour.jpg
+thumbnail: hackyHour.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "Think of Hacky Hour as a pub night for researchers who code - it's a great way to welcome new people to the community, explore wild new ideas and maybe even fix a bug or two. To get your own Hacky Hour started, bear in mind these pro-tips:
+<ul class='text-block'>
+<li>
+<span class='paraHeading'>Invite Everyone.</span> Hacky Hour is for everyone! Any time someone wants to meet to chat about a code project, needs help with a bug, or wants to find out more about what's happening in your community, invite them to Hacky Hour - this way, you'll get a diverse mix of people with lots of overlaping skills and interests. Remember to emphasize that new coders are especially welcome!
+</li>
+<li><span class='paraHeading'>Stick to it.</span> Try and pick a regular time and venue for your Hacky Hour, so that people can plan for it and find it easily. Hacky Hours traditionally have widely variable attendance, so don't get discouraged if only a couple of people come out at first; stick to it and word will spread.
+</li>
+<li><span class='paraHeading'>Find the perfect venue.</span> Patios are great venues for hacky hours when the weather is good; the events work best at quieter pubs where it's easy to have a conversation and show off what you're working on.
+</li>
+</ul>"
+
+
+
+
+---

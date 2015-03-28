@@ -1,0 +1,27 @@
+---
+title: Co-Working Session
+subtitle: Coding Together
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: coWorking.jpg
+thumbnail: coWorking.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "Co-working sessions are a great way to get stuff done and discover new coding techniques. Get your study group together for a couple of hours to all sit down and work on their latest coding projects - and encourage everyone to ask each other questions when they get stuck, show off their work and talk to each other about what they're doing. To have a great co-working session, try these tips:
+<ul class='text-block'>
+<li>
+<span class='paraHeading'>Welcome beginners.</span> Make sure everyone knows new coders are very welcome, and that it's okay to ask any question you like. Also, make sure the more experienced coders in the group know how to make newcomers feel welcome; treating anything like it's trivial is offputting for people just starting out.
+</li>
+<li>
+<span class='paraHeading'>Do lightning intros.</span> At the start of the session, go around the room and have everyone call out what sort of tools and language they're working in that day - and encourage people using similar tools to chat and work together.
+</li>
+<li>
+<span class='paraHeading'>Wrap with a few minutes of demo time.</span> At the end of the session, give people a chance to show off what they're working on to the group - these should be really quick demos, meant to give people just a flavour of what people are doing - and start conversations afterwards.
+</li>
+</ul>
+"
+
+---

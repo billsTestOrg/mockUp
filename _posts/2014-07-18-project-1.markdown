@@ -1,0 +1,28 @@
+---
+title: Lightning Demo Party
+subtitle: Idea Discovery
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: lightningDemo.jpg
+thumbnail: lightningDemo.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "A lightning demo is a five-minute demo of a tool or piece of code, meant to make a quick introduction to an audience so they can decide if they're interested in learning more. Get a whole bunch of these together, and you have a Lightning Demo Party! Try these tips for your first round of lightning demos:
+<ul class='text-block'>
+<li>
+<span class='paraHeading'>Aim for 8-10 demos.</span> This is enough for there to be some substantial vairety at the party, but small enough that it won't take hours for people to check out all the demos.
+</li>
+<li>
+<span class='paraHeading'>5 minutes max.</span> Ask presenters to keep the demos short; there's plenty to see, and if there's lots of interest in one area, invite the presenter to lead a code-along at a future meetup.
+</li>
+<li>
+<span class='paraHeading'>Include some research context.</span> Getting the presenters to add a quick comment on how they use their demo in their research will help motivate the tools, and communicate to everyone what their reseach applications are.
+</li>
+<li>
+<span class='paraHeading'>It's a party!</span> Set your presenters up in a big horseshoe pattern so people can circulate, and consider serving snacks or drinks if feasible. Setting the scene this way will help encourage people to talk amongst themselves and brainstorm about how they're going to use all these cool new ideas.
+</li>
+</ul>"
+---
